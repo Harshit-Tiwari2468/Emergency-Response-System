@@ -4,4 +4,4 @@ let user_Surname = "Tiwari"
 user_email = "ht.harshit1627@gmail.com"
 
 console.log(user_id);
-console.table(user_id);
+console.table([user_id,user_name,user_Surname,user_email]);
