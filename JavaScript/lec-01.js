@@ -1,4 +1,4 @@
-const user_id = UIS2200112
+const user_id = 2200112
 var user_name = "Harshit"
 let user_Surname = "Tiwari"
 user_email = "ht.harshit1627@gmail.com"

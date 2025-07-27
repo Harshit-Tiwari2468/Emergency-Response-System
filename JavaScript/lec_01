@@ -1,6 +1,0 @@
-const user_id = UIS2200022
-var user_name = "Harshit"
-let user_surname = "Tiwari"
-user_email ="ht.harshit1726@gmail.com"
-
-console.log(user_id);
